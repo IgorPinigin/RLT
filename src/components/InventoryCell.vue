@@ -1,12 +1,12 @@
 <template>
-    <div>
-
-    </div>
+  <div class="cell">
+		<span></span>
+  </div>
 </template>
 
 <script>
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
 </style>

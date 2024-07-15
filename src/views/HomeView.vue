@@ -1,5 +1,12 @@
 <template>
-  <div></div>
+  <InventoryGrid></InventoryGrid>
 </template>
 
-<script></script>
+<script>
+import InventoryGrid from "../components/InventoryGrid.vue";
+export default {
+  components: {
+    InventoryGrid,
+  },
+};
+</script>
